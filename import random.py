@@ -1,5 +1,5 @@
 import random
-
+# V.1- Se crea V.1
 class Casa:
     def __init__(self, nombre, lema):
         self.nombre = nombre
